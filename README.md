@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there! :raised_hand_with_fingers_splayed:
 
-<!--
-**Soqva/Soqva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :upside_down_face: My name is Nikita and I aspire to become a java developer :upside_down_face:
+- :mortar_board: Currently I have studied and worked:
+  - Apache Maven
+  - Apache Tomcat
+  - JDBC
+  - JUnit 5
+  - Java Core
+  - PostgresSQL
+  - SQL
+  - Servlets
+- :man_student: I am currently studying some technologies:
+  - Gradle
+  - Groovy
+  - Hibernate
+  - Spring Core
+- :email: How to reach me: s0qva69@gmail.com
