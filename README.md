@@ -1,6 +1,6 @@
 ### Hello there! :raised_hand_with_fingers_splayed:
 
-- :upside_down_face: My name is Nikita and I aspire to become a java developer :upside_down_face:
+- ☕ My name is Nikita and I aspire to become a java developer ☕
 - :man_student: I am currently studying some technologies:
   - Gradle
   - Groovy
