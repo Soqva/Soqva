@@ -2,6 +2,5 @@
 
 - ☕ My name is Nikita and I aspire to become a java developer ☕
 - :man_student: I am currently studying some technologies:
-  - Hibernate
   - Spring Core
 - :email: How to reach me: s0qva69@gmail.com
